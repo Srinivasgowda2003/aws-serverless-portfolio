@@ -3,7 +3,7 @@
 This is my personal portfolio website, hosted entirely on the AWS Cloud using a Serverless architecture. It demonstrates a full-stack integration between a frontend UI and a cloud backend.
 
 ## 🚀 Live Demo
-[Insert your AWS API Gateway URL here]
+https://a6sg3iav9b.execute-api.ap-south-1.amazonaws.com/#
 
 ## 🏗️ Architecture
 - **Frontend:** HTML5, CSS3, JavaScript (Embedded in Lambda for server-side rendering).
